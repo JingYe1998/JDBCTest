@@ -1,0 +1,2231 @@
+Year,Month,Station,Capacity,Power,Average
+2016,1,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,28418,1.41
+2016,1,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,1642,1.32
+2016,1,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,4805,1.69
+2016,1,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,5391,1.5
+2016,1,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2660,2.05
+2016,1,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,154455,2.35
+2016,1,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,490214,2.44
+2016,1,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,6386,2.26
+2016,1,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2666,1.43
+2016,1,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,367955,2.56
+2016,1,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,126346,2.5
+2016,1,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4854,2.61
+2016,1,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,120185,2.66
+2016,1,澎湖尖山光電站/Penghu jianshan Photovoltaics Station/Penghu Photovoltaics,70.61,3986,1.82
+2016,1,澎湖七美光電站/Penghu Qimei Photovoltaics Station/Qimei 1st Photovoltaics,154.56,6114,1.28
+2016,1,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,34445,2.1
+2016,2,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,35842,1.77
+2016,2,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,1929,1.55
+2016,2,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,5449,1.91
+2016,2,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,6499,1.81
+2016,2,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3019,2.32
+2016,2,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,162792,2.47
+2016,2,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,528472,2.63
+2016,2,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,6965,2.47
+2016,2,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3422,1.84
+2016,2,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,478599,3.33
+2016,2,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,168571,3.34
+2016,2,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5427,2.92
+2016,2,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,165213,3.65
+2016,2,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5201,2.38
+2016,2,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,8394,1.75
+2016,2,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,43127,2.63
+2016,3,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,43362,2.15
+2016,3,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2407,1.93
+2016,3,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6147,2.16
+2016,3,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,6962,1.94
+2016,3,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3070,2.36
+2016,3,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,162774,2.47
+2016,3,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,540858,2.69
+2016,3,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,7477,2.65
+2016,3,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3241,1.74
+2016,3,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,466168,3.24
+2016,3,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,152340,3.02
+2016,3,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5917,3.18
+2016,3,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,155039,3.43
+2016,3,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6013,2.75
+2016,3,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,10787,2.25
+2016,3,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,42465,2.59
+2016,4,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,54501,2.7
+2016,4,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2895,2.32
+2016,4,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7967,2.8
+2016,4,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9512,2.65
+2016,4,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3809,2.93
+2016,4,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,196821,2.99
+2016,4,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,638786,3.18
+2016,4,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8866,3.14
+2016,4,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4249,2.28
+2016,4,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,573206,3.99
+2016,4,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,205959,4.08
+2016,4,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7396,3.97
+2016,4,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,174955,3.87
+2016,4,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7553,3.45
+2016,4,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,13850,2.89
+2016,4,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,41406,2.53
+2016,5,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,72106,3.57
+2016,5,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3948,3.16
+2016,5,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,10158,3.57
+2016,5,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,10503,2.93
+2016,5,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4283,3.3
+2016,5,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,255847,3.89
+2016,5,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,809137,4.02
+2016,5,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10419,3.69
+2016,5,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,5209,2.8
+2016,5,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,629290,4.38
+2016,5,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,224320,4.45
+2016,5,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7996,4.3
+2016,5,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,193842,4.29
+2016,5,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,9012,4.12
+2016,5,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,15294,3.19
+2016,5,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,54701,3.34
+2016,6,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,82819,4.1
+2016,6,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4679,3.75
+2016,6,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,10465,3.68
+2016,6,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,11524,3.21
+2016,6,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4519,3.48
+2016,6,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,256324,3.89
+2016,6,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,820239,4.08
+2016,6,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10174,3.6
+2016,6,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4989,2.68
+2016,6,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,613456,4.27
+2016,6,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,206572,4.09
+2016,6,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7174,3.86
+2016,6,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,190836,4.22
+2016,6,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,9000,4.11
+2016,6,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,15689,3.27
+2016,6,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,53452,3.27
+2016,7,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,101279,5.02
+2016,7,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,5365,4.3
+2016,7,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,12177,4.28
+2016,7,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,13630,3.8
+2016,7,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,5228,4.02
+2016,7,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,300183,4.56
+2016,7,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,957133,4.76
+2016,7,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,11696,4.14
+2016,7,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,5502,2.96
+2016,7,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,631460,4.39
+2016,7,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,221991,4.4
+2016,7,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7850,4.22
+2016,7,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,196822,4.35
+2016,7,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,10049,4.59
+2016,7,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,16758,3.5
+2016,7,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,58671,3.58
+2016,8,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,91065,4.51
+2016,8,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4760,3.81
+2016,8,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,10600,3.72
+2016,8,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,10094,2.81
+2016,8,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4333,3.34
+2016,8,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,266741,4.05
+2016,8,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,839858,4.18
+2016,8,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10536,3.73
+2016,8,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4727,2.54
+2016,8,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,599392,4.17
+2016,8,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,211809,4.2
+2016,8,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7480,4.02
+2016,8,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,161103,3.56
+2016,8,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8745,4.0
+2016,8,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,14296,2.98
+2016,8,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,56181,3.43
+2016,9,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,67287,3.33
+2016,9,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3615,2.9
+2016,9,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8173,2.87
+2016,9,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8910,2.48
+2016,9,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3703,2.85
+2016,9,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,210910,3.2
+2016,9,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,667044,3.32
+2016,9,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8717,3.09
+2016,9,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4072,2.19
+2016,9,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,469712,3.27
+2016,9,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,169250,3.35
+2016,9,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6471,3.48
+2016,9,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,103077,2.28
+2016,9,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5986,2.73
+2016,9,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,7522,1.57
+2016,9,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,23383,1.43
+2016,10,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,69658,3.45
+2016,10,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3922,3.14
+2016,10,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9205,3.23
+2016,10,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9862,2.75
+2016,10,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4389,3.38
+2016,10,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,242667,3.69
+2016,10,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,716034,3.56
+2016,10,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10530,3.73
+2016,10,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4143,2.23
+2016,10,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,543268,3.78
+2016,10,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,183393,3.63
+2016,10,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6764,3.63
+2016,10,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,160871,3.56
+2016,10,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6062,2.77
+2016,10,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,10675,2.23
+2016,10,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,43089,2.63
+2016,11,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,54441,2.7
+2016,11,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3065,2.46
+2016,11,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6868,2.41
+2016,11,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7991,2.23
+2016,11,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3228,2.49
+2016,11,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,191704,2.91
+2016,11,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,586293,2.92
+2016,11,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8384,2.97
+2016,11,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3184,1.71
+2016,11,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,441420,3.07
+2016,11,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,160441,3.18
+2016,11,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5762,3.1
+2016,11,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,145829,3.23
+2016,11,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6273,2.87
+2016,11,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,10672,2.23
+2016,11,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,28198,1.72
+2016,12,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,50126,2.48
+2016,12,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3040,2.44
+2016,12,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7039,2.47
+2016,12,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8953,2.49
+2016,12,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3992,3.07
+2016,12,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,177942,2.7
+2016,12,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,593372,2.95
+2016,12,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9047,3.2
+2016,12,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3466,1.86
+2016,12,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,494428,3.44
+2016,12,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,166752,3.3
+2016,12,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6133,3.3
+2016,12,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,151676,3.36
+2016,12,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5594,2.56
+2016,12,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,10334,2.16
+2016,12,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,45982,2.81
+2017,1,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,44838,2.22
+2017,1,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2759,2.21
+2017,1,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7689,2.7
+2017,1,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9264,2.58
+2017,1,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4101,3.16
+2017,1,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,192042,2.92
+2017,1,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,657732,3.27
+2017,1,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10046,3.56
+2017,1,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3615,1.94
+2017,1,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,545572,3.8
+2017,1,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,187707,3.72
+2017,1,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6910,3.71
+2017,1,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,177869,3.93
+2017,1,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5708,2.61
+2017,1,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,10071,2.1
+2017,1,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,46570,2.85
+2017,2,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,46619,2.31
+2017,2,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2809,2.25
+2017,2,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6775,2.38
+2017,2,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7564,2.11
+2017,2,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3311,2.55
+2017,2,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,157433,2.39
+2017,2,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,586088,2.91
+2017,2,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8505,3.01
+2017,2,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2979,1.6
+2017,2,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,476020,3.31
+2017,2,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,159059,3.15
+2017,2,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6013,3.23
+2017,2,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,150151,3.32
+2017,2,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5696,2.6
+2017,2,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,8450,1.76
+2017,2,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,53571,3.27
+2017,3,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,48198,2.39
+2017,3,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2605,2.09
+2017,3,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7732,2.72
+2017,3,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9176,2.56
+2017,3,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3671,2.83
+2017,3,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,208745,3.17
+2017,3,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,697643,3.47
+2017,3,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9158,3.24
+2017,3,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3914,2.1
+2017,3,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,588272,4.09
+2017,3,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,205762,4.08
+2017,3,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7260,3.9
+2017,3,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,181984,4.03
+2017,3,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6816,3.11
+2017,3,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,11096,2.32
+2017,3,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,44781,2.74
+2017,4,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,66604,3.3
+2017,4,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3861,3.09
+2017,4,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8373,2.94
+2017,4,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9799,2.73
+2017,4,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3909,3.01
+2017,4,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,213216,3.24
+2017,4,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,730315,3.63
+2017,4,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9685,3.43
+2017,4,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4106,2.21
+2017,4,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,593164,4.13
+2017,4,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,195544,3.88
+2017,4,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7236,3.89
+2017,4,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,186425,4.12
+2017,4,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8555,3.91
+2017,4,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,13308,2.78
+2017,4,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,55974,3.42
+2017,5,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,72308,3.58
+2017,5,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3889,3.12
+2017,5,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9426,3.31
+2017,5,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,10490,2.92
+2017,5,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4136,3.18
+2017,5,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,238684,3.63
+2017,5,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,779690,3.88
+2017,5,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10159,3.6
+2017,5,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4094,2.2
+2017,5,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,609836,4.24
+2017,5,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,213508,4.23
+2017,5,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7353,3.95
+2017,5,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,183722,4.06
+2017,5,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8416,3.84
+2017,5,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,14191,2.96
+2017,5,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,60898,3.72
+2017,6,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,68465,3.39
+2017,6,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3800,3.05
+2017,6,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8499,2.99
+2017,6,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9120,2.54
+2017,6,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3670,2.83
+2017,6,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,227298,3.45
+2017,6,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,672995,3.35
+2017,6,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8638,3.06
+2017,6,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3750,2.02
+2017,6,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,557144,3.88
+2017,6,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,194201,3.85
+2017,6,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7005,3.76
+2017,6,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,175074,3.87
+2017,6,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8099,3.7
+2017,6,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,13108,2.74
+2017,6,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,48600,2.97
+2017,7,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,94842,4.7
+2017,7,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,5016,4.02
+2017,7,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,11335,3.98
+2017,7,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,10907,3.04
+2017,7,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4249,3.27
+2017,7,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,267838,4.07
+2017,7,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,835403,4.15
+2017,7,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10368,3.67
+2017,7,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4157,2.23
+2017,7,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,634132,4.41
+2017,7,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,177733,3.52
+2017,7,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7088,3.81
+2017,7,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,171311,3.79
+2017,7,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,9815,4.48
+2017,7,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,15344,3.2
+2017,7,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,68305,4.17
+2017,8,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,90878,4.5
+2017,8,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,5550,4.45
+2017,8,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,10538,3.7
+2017,8,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,11409,3.18
+2017,8,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4620,3.56
+2017,8,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,279324,4.24
+2017,8,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,904531,4.5
+2017,8,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10375,3.67
+2017,8,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4446,2.39
+2017,8,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,637092,4.43
+2017,8,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,189824,3.76
+2017,8,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7276,3.91
+2017,8,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,174720,3.87
+2017,8,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8954,4.09
+2017,8,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,16018,3.34
+2017,8,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,66169,4.04
+2017,9,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,72913,3.73
+2017,9,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4501,3.73
+2017,9,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9375,3.4
+2017,9,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9582,2.76
+2017,9,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4497,3.58
+2017,9,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,268235,4.21
+2017,9,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,838332,4.31
+2017,9,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10356,3.79
+2017,9,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4369,2.43
+2017,9,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,611408,4.4
+2017,9,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,207919,4.26
+2017,9,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7643,4.24
+2017,9,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,190599,4.36
+2017,9,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8244,3.89
+2017,9,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,15048,3.25
+2017,9,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,55378,3.5
+2017,10,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,60156,3.08
+2017,10,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3488,2.89
+2017,10,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9075,3.3
+2017,10,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9048,2.6
+2017,10,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4590,3.65
+2017,10,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,226283,3.55
+2017,10,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,673768,3.46
+2017,10,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10607,3.88
+2017,10,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3740,2.08
+2017,10,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,568081,4.08
+2017,10,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,198105,4.06
+2017,10,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7159,3.98
+2017,10,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,148577,3.4
+2017,10,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6254,2.95
+2017,10,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,12202,2.63
+2017,10,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,59572,3.76
+2017,11,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,33793,1.73
+2017,11,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2147,1.78
+2017,11,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6593,2.39
+2017,11,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7117,2.05
+2017,11,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3548,2.82
+2017,11,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,170428,2.68
+2017,11,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,506585,2.6
+2017,11,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,7860,2.88
+2017,11,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2470,1.37
+2017,11,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,467836,3.36
+2017,11,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,152524,3.12
+2017,11,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5810,3.23
+2017,11,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,132599,3.03
+2017,11,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4361,2.06
+2017,11,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,6578,1.42
+2017,11,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,32073,2.02
+2017,12,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,40855,2.02
+2017,12,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2466,1.98
+2017,12,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6104,2.14
+2017,12,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,6480,1.81
+2017,12,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3369,2.59
+2017,12,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,168442,2.56
+2017,12,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,545519,2.71
+2017,12,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8029,2.84
+2017,12,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2175,1.17
+2017,12,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,434732,3.02
+2017,12,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,141199,2.8
+2017,12,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5629,3.02
+2017,12,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,134371,2.97
+2017,12,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4868,2.22
+2017,12,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,9256,1.93
+2017,12,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,41203,2.52
+2018,1,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,48440,2.4
+2018,1,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2766,2.22
+2018,1,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6462,2.27
+2018,1,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,5858,1.63
+2018,1,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3185,2.45
+2018,1,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,164365,2.5
+2018,1,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,501612,2.49
+2018,1,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,7835,2.77
+2018,1,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2019,1.09
+2018,1,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,451264,3.14
+2018,1,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,148842,2.95
+2018,1,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5328,2.86
+2018,1,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,156170,3.45
+2018,1,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5169,2.36
+2018,1,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,8456,1.76
+2018,1,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,35753,2.18
+2018,2,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,36597,2.01
+2018,2,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,1973,1.75
+2018,2,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,5634,2.19
+2018,2,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,5479,1.69
+2018,2,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2957,2.52
+2018,2,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,161899,2.72
+2018,2,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,418656,2.31
+2018,2,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,7118,2.79
+2018,2,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1952,1.16
+2018,2,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,435380,3.35
+2018,2,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,140172,3.08
+2018,2,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4515,2.69
+2018,2,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,140381,3.44
+2018,2,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4838,2.45
+2018,2,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,6301,1.46
+2018,2,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,36579,2.47
+2018,3,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,73986,3.663757885
+2018,3,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4342,3.479863755
+2018,3,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9842,3.458429967
+2018,3,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8700,2.423533344
+2018,3,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4351,3.349757487
+2018,3,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,271357,4.123074277
+2018,3,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,776348,3.861195736
+2018,3,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,11771,4.16691004
+2018,3,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3570,1.919354839
+2018,3,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,627823,4.367743883
+2018,3,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,247753,4.910166349
+2018,3,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7313,3.929755552
+2018,3,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,197819,4.37599988
+2018,3,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,9321,4.258283803
+2018,3,澎湖七美光電站/Penghu Qimei Photovoltaics Station/Qimei 1st Photovoltaics,154.56,13666,2.852217325
+2018,3,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,53764,3.284701857
+2018,4,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,74427,3.808449234
+2018,4,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3845,3.18426501
+2018,4,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8580,3.11546841
+2018,4,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9338,2.687967761
+2018,4,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3903,3.105011933
+2018,4,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,243325,3.82038649
+2018,4,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,779078,4.003932609
+2018,4,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9967,3.645907636
+2018,4,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3566,1.981111111
+2018,4,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,580110,4.170332988
+2018,4,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,214125,4.385156514
+2018,4,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7426,4.123493809
+2018,4,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,183524,4.195102772
+2018,4,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,9085,4.288816504
+2018,4,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,16028,3.456694272
+2018,4,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,50419,3.183017677
+2018,5,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,92446,4.57788989
+2018,5,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,5000,4.007212983
+2018,5,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,10722,3.767657601
+2018,5,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,12296,3.42526046
+2018,5,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4850,3.733928709
+2018,5,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,279204,4.242303793
+2018,5,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,905260,4.502344376
+2018,5,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,11366,4.023540865
+2018,5,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4278,2.3
+2018,5,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,694750,4.833352813
+2018,5,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,244157,4.838897956
+2018,5,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,8369,4.497213759
+2018,5,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,205451,4.544829118
+2018,5,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,11068,5.056397933
+2018,5,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,18686,3.899936552
+2018,5,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,64369,3.932612414
+2018,6,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,72790,3.724683512
+2018,6,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3890,3.221532091
+2018,6,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9574,3.476397967
+2018,6,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9831,2.829879102
+2018,6,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3945,3.138424821
+2018,6,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,232827,3.655559952
+2018,6,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,775629,3.986207088
+2018,6,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9947,3.638591678
+2018,6,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3018,1.676666667
+2018,6,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,521106,3.746161146
+2018,6,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,186668,3.822852988
+2018,6,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6117,3.396635016
+2018,6,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,158053,3.612871224
+2018,6,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8002,3.777557475
+2018,6,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,13802,2.976621808
+2018,6,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,48048,3.033333333
+2018,7,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,84461,4.182475802
+2018,7,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3839,3.076738129
+2018,7,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9937,3.491812496
+2018,7,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9078,2.52883169
+2018,7,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3540,2.725383016
+2018,7,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,261553,3.974109554
+2018,7,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,717856,3.570283592
+2018,7,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9884,3.498915881
+2018,7,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3314,1.78172043
+2018,7,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,602098,4.188775908
+2018,7,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,184682,3.66017502
+2018,7,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6687,3.593364608
+2018,7,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,165510,3.661285013
+2018,7,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8678,3.964530291
+2018,7,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,15337,3.200970079
+2018,7,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,55925,3.416727761
+2018,8,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,75631,3.75
+2018,8,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4084,3.27
+2018,8,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8801,3.09
+2018,8,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8801,2.45
+2018,8,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3576,2.75
+2018,8,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,225280,3.42
+2018,8,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,624547,3.11
+2018,8,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8845,3.13
+2018,8,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3082,1.66
+2018,8,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,398456,2.77
+2018,8,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,158497,3.14
+2018,8,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5108,2.74
+2018,8,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,107578,2.38
+2018,8,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7628,3.48
+2018,8,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,11957,2.5
+2018,8,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,46402,2.83
+2018,9,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,68884,3.52
+2018,9,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4070,3.37
+2018,9,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9365,3.4
+2018,9,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,10081,2.9
+2018,9,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4338,3.45
+2018,9,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,256297,4.02
+2018,9,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,679234,3.49
+2018,9,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9433,3.45
+2018,9,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3331,1.85
+2018,9,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,600805,4.32
+2018,9,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,213823,4.38
+2018,9,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7308,4.06
+2018,9,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,145338,3.32
+2018,9,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7859,3.71
+2018,9,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,15254,3.29
+2018,9,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,50790,3.21
+2018,10,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,64117,3.18
+2018,10,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3270,2.62
+2018,10,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9760,3.43
+2018,10,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,10347,2.88
+2018,10,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4371,3.37
+2018,10,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,244534,3.72
+2018,10,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,708449,3.52
+2018,10,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,4907,1.74
+2018,10,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3278,1.76
+2018,10,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,572710,3.98
+2018,10,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,205053,4.06
+2018,10,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7134,3.83
+2018,10,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,143340,3.17
+2018,10,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8674,3.96
+2018,10,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,45770,9.55
+2018,10,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,50683,3.1
+2018,11,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,47366,2.42
+2018,11,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2568,2.13
+2018,11,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6674,2.42
+2018,11,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7426,2.14
+2018,11,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3259,2.59
+2018,11,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,174072,2.73
+2018,11,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,568164,2.92
+2018,11,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,3405,1.25
+2018,11,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2190,1.22
+2018,11,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,456901,3.28
+2018,11,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,157683,3.23
+2018,11,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5606,3.11
+2018,11,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,142773,3.26
+2018,11,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6001,2.83
+2018,11,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,30237,6.52
+2018,11,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,38940,2.46
+2018,12,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,78457,3.89
+2018,12,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2575,2.06
+2018,12,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6622,2.33
+2018,12,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8636,2.41
+2018,12,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3569,2.75
+2018,12,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,178306,2.71
+2018,12,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,608609,3.03
+2018,12,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,3679,1.3
+2018,12,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2217,1.19
+2018,12,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,501575,3.49
+2018,12,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,162634,3.22
+2018,12,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6218,3.34
+2018,12,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,142058,3.14
+2018,12,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5071,2.32
+2018,12,澎湖七美光電站/Penghu Qimei Photovoltaics Station/Qimei 1st Photovoltaics,154.56,25475,5.32
+2018,12,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,39437,2.41
+2019,1,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,40503,2.01
+2019,1,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2593,2.08
+2019,1,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6710,2.36
+2019,1,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7937,2.21
+2019,1,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3540,2.73
+2019,1,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,166846,2.54
+2019,1,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,546490,2.72
+2019,1,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,3619,1.28
+2019,1,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2025,1.09
+2019,1,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,483665,3.36
+2019,1,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,166450,3.3
+2019,1,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5842,3.14
+2019,1,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,143577,3.18
+2019,1,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4580,2.09
+2019,1,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,9662,2.02
+2019,1,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,46081,2.82
+2019,2,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,28241,1.55
+2019,2,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,1800,1.6
+2019,2,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7126,2.77
+2019,2,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8725,2.69
+2019,2,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3626,3.09
+2019,2,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,175365,2.95
+2019,2,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,581115,3.2
+2019,2,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,3983,1.56
+2019,2,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2513,1.5
+2019,2,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,557631,4.3
+2019,2,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,194639,4.27
+2019,2,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6615,3.94
+2019,2,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,157864,3.87
+2019,2,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4726,2.39
+2019,2,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,10260,2.37
+2019,2,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,34698,2.35
+2019,3,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,45814,2.27
+2019,3,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2825,2.26
+2019,3,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6529,2.29
+2019,3,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7655,2.13
+2019,3,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3074,2.37
+2019,3,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,183238,2.78
+2019,3,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,559409,2.78
+2019,3,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,3412,1.21
+2019,3,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2360,1.27
+2019,3,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,506985,3.53
+2019,3,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,186120,3.69
+2019,3,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6340,3.41
+2019,3,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,179028,3.96
+2019,3,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6300,2.88
+2019,3,澎湖七美光電站/Penghu Qimei Photovoltaics Station,154.56,12007,2.51
+2019,3,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,44929,2.74
+2019,4,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,62486,3.2
+2019,4,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3400,2.82
+2019,4,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7852,2.85
+2019,4,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9623,2.77
+2019,4,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3802,3.02
+2019,4,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,206878,3.25
+2019,4,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,624497,3.21
+2019,4,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,3062,1.12
+2019,4,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2863,1.59
+2019,4,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,617396,4.44
+2019,4,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,210045,4.3
+2019,4,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7121,3.95
+2019,4,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,184397,4.22
+2019,4,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7504,3.54
+2019,4,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,19531,7.18
+2019,4,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,48798,3.08
+2019,4,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,15573,3.2
+2019,4,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,23582,3.45
+2019,4,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,22281,3.75
+2019,4,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,31841,4.11
+2019,4,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,240901,4.46
+2019,4,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.76,48264,4.24
+2019,4,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.76,61203,4.1
+2019,4,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,72387,3.4
+2019,4,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,93435,3.43
+2019,5,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,57139,2.83
+2019,5,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3026,2.43
+2019,5,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6595,2.32
+2019,5,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,6508,1.81
+2019,5,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2834,2.18
+2019,5,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,191837,2.96
+2019,5,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,591014,2.93
+2019,5,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,2335,0.83
+2019,5,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2196,1.18
+2019,5,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,507230,3.53
+2019,5,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,185461,3.65
+2019,5,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5983,3.22
+2019,5,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,150885,3.46
+2019,5,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6733,3.08
+2019,5,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,36425,3.255
+2019,5,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,45647,2.79
+2019,5,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,12947,2.58
+2019,5,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,21356,3.02
+2019,5,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,19006,3.1
+2019,5,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,27057,3.38
+2019,5,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,205554,3.68
+2019,5,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.76,42486,3.61
+2019,5,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.76,29747,1.93
+2019,5,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,70440,3.2
+2019,5,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,89754,3.19
+2019,5,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,6507157,2.1
+2019,6,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,48022,2.46
+2019,6,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3850,3.19
+2019,6,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8030,2.92
+2019,6,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8695,2.5
+2019,6,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3438,2.74
+2019,6,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,221705,3.53
+2019,6,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,680557,3.49
+2019,6,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,2700,0.99
+2019,6,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2342,1.3
+2019,6,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,576892,4.15
+2019,6,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,193940,3.96
+2019,6,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6279,3.49
+2019,6,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,169326,4.09
+2019,6,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7979,3.77
+2019,6,澎湖七美光電站/Penghu Qimei Photovoltaics Station,177.14,38758,7.15
+2019,6,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,48875,3.09
+2019,6,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,16896,3.48
+2019,6,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,25737,3.76
+2019,6,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,20953,3.53
+2019,6,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,30159,3.9
+2019,6,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,189176,3.5
+2019,6,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.76,45697,4.01
+2019,6,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.76,55200,3.7
+2019,6,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,83227,3.91
+2019,6,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,94775,3.48
+2019,6,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,12693699,4.23
+2019,7,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,42948,2.13
+2019,7,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4860,3.9
+2019,7,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8484,2.98
+2019,7,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,10240,2.85
+2019,7,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4139,3.19
+2019,7,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,247449,3.8
+2019,7,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,734462,3.65
+2019,7,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,3996,1.41
+2019,7,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2812,1.51
+2019,7,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,514325,3.58
+2019,7,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,181511,3.59
+2019,7,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5918,3.18
+2019,7,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,144342,3.19
+2019,7,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8011,3.66
+2019,7,澎湖七美光電站/Penghu Qimei Photovoltaics Station,177.14,41977,7.46
+2019,7,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,56144,3.43
+2019,7,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,21908,4.36
+2019,7,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,32694,4.63
+2019,7,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,25749,4.2
+2019,7,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,34012,4.25
+2019,7,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,207261,3.72
+2019,7,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.76,43298,3.68
+2019,7,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.76,53930,3.5
+2019,7,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,109170,4.96
+2019,7,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,125556,4.46
+2019,7,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,13958203,4.5
+2019,8,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,43600,2.16
+2019,8,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4484,3.59
+2019,8,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6759,2.38
+2019,8,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7330,2.04
+2019,8,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3234,2.49
+2019,8,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,212556,3.27
+2019,8,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,604093,2.97
+2019,8,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,4973,1.76
+2019,8,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2013,1.08
+2019,8,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,450332,3.13
+2019,8,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,157347,3.13
+2019,8,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5152,2.77
+2019,8,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,127892,2.99
+2019,8,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7211,3.29
+2019,8,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,38137,6.81
+2019,8,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,16670,1.02
+2019,8,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,20161,4.01
+2019,8,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,29258,4.14
+2019,8,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,20512,3.34
+2019,8,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,28642,3.58
+2019,8,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,191603,3.43
+2019,8,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.76,36092,3.07
+2019,8,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.76,45471,2.95
+2019,8,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,91811,4.17
+2019,8,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,128091,4.55
+2019,8,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,11123701,3.59
+2019,9,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,36029,1.84
+2019,9,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3819,3.16
+2019,9,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8062,2.93
+2019,9,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9098,2.62
+2019,9,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4105,3.27
+2019,9,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,272766,4.28
+2019,9,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,637101,3.27
+2019,9,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,4759,1.74
+2019,9,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2302,1.28
+2019,9,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,541100,3.89
+2019,9,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,207925,4.26
+2019,9,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6948,3.86
+2019,9,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,143754,3.29
+2019,9,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7921,3.74
+2019,9,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,43629,4.02
+2019,9,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,6386,0.4
+2019,9,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,18334,3.77
+2019,9,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,25482,3.73
+2019,9,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,25003,4.21
+2019,9,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,34704,4.48
+2019,9,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,253389,4.69
+2019,9,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.76,48130,4.22
+2019,9,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.76,60180,4.03
+2019,9,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,82060,3.85
+2019,9,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,105575,3.88
+2019,9,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,14547382,4.85
+2019,10,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,38009,1.88
+2019,10,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4216,3.38
+2019,10,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7587,2.67
+2019,10,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9736,2.71
+2019,10,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4559,3.51
+2019,10,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,261576,3.93
+2019,10,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,670560,3.24
+2019,10,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,6991,2.47
+2019,10,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2153,1.16
+2019,10,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,564265,3.93
+2019,10,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,206358,4.15
+2019,10,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7133,3.83
+2019,10,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,163001,3.73
+2019,10,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7828,3.58
+2019,10,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,44238,3.965
+2019,10,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,57692,3.52
+2019,10,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,21781,4.34
+2019,10,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,29565,4.18
+2019,10,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,25323,4.13
+2019,10,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,33822,4.23
+2019,10,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,263307,4.72
+2019,10,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.76,47607,4.04
+2019,10,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.76,61366,3.98
+2019,10,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,83690,3.8
+2019,10,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,113870,4.05
+2019,10,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,12744188,4.11
+2019,11,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,29072,1.49
+2019,11,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3160,2.62
+2019,11,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,5976,2.17
+2019,11,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8661,2.49
+2019,11,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4098,3.26
+2019,11,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,183962,2.89
+2019,11,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,553262,2.84
+2019,11,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8914,3.26
+2019,11,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1463,0.81
+2019,11,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,461110,3.31
+2019,11,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,169196,3.47
+2019,11,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5779,3.21
+2019,11,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,128535,2.94
+2019,11,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5027,2.37
+2019,11,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,30887,2.875
+2019,11,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,54954,3.47
+2019,11,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,18899,3.89
+2019,11,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,22621,3.31
+2019,11,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,20934,3.52
+2019,11,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,27289,3.53
+2019,11,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,212869,3.94
+2019,11,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.76,38453,3.38
+2019,11,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.76,52985,3.55
+2019,11,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,64551,3.03
+2019,11,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,76296,2.8
+2019,11,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,10359086,3.45
+2019,12,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,19671,0.97
+2019,12,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,1300,1.04
+2019,12,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,5476,1.92
+2019,12,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7278,2.03
+2019,12,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3644,2.81
+2019,12,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,176589,2.18
+2019,12,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,510390,2.54
+2019,12,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8033,2.84
+2019,12,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1405,0.76
+2019,12,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,442140,3.08
+2019,12,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,152586,3.02
+2019,12,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5382,2.89
+2019,12,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,141118,3.12
+2019,12,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4943,2.26
+2019,12,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,29957,2.725
+2019,12,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,49709,3.04
+2019,12,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,12988,2.59
+2019,12,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,16040,2.27
+2019,12,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,18680,3.04
+2019,12,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,26025,3.25
+2019,12,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,193997,3.48
+2019,12,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.76,34794,2.96
+2019,12,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.76,50429,3.27
+2019,12,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,47843,2.17
+2019,12,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,54596,1.94
+2019,12,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,9696492,3.13
+2020,1,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,25547,1.265077483
+2020,1,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,1774,1.421759166
+2020,1,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6077,2.135427648
+2020,1,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7729,2.153044738
+2020,1,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4007,3.084918008
+2020,1,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,209674,3.185845495
+2020,1,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,536828,2.669934082
+2020,1,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8599,3.044028497
+2020,1,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1632,0.877419355
+2020,1,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,542400,3.773458893
+2020,1,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,194408,3.852932637
+2020,1,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6630,3.562734762
+2020,1,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,157151,3.47637364
+2020,1,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5887,2.689466447
+2020,1,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,33125,2.956006271
+2020,1,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,48614,2.970063539
+2020,1,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,13885,2.764834727
+2020,1,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,18330,2.593378608
+2020,1,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,21433,3.491854024
+2020,1,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,29705,3.714053513
+2020,1,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,244509,4.383099248
+2020,1,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,41816,3.550119028
+2020,1,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,59488,3.85365841
+2020,1,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,53619,2.435982707
+2020,1,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,64205,2.281783263
+2020,1,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,11497383,3.708866606
+2020,2,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,22881,1.21
+2020,2,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3040,2.6
+2020,2,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6446,2.42
+2020,2,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7836,2.33
+2020,2,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3857,3.17
+2020,2,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,208423,3.39
+2020,2,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,603627,3.21
+2020,2,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8392,3.18
+2020,2,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1502,0.86
+2020,2,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,531587,3.95
+2020,2,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,189730,4.02
+2020,2,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6481,3.72
+2020,2,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,146082,3.45
+2020,2,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6344,3.1
+2020,2,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,34872,3.315
+2020,2,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,54842,3.58
+2020,2,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,15665,3.33
+2020,2,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,21147,3.2
+2020,2,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,21148,3.68
+2020,2,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,29210,3.9
+2020,2,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,232598,4.46
+2020,2,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,42107,3.82
+2020,2,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,54759,3.79
+2020,2,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,62400,3.03
+2020,2,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,80603,3.06
+2020,2,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,10217810,3.52
+2020,3,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,15126,0.749033625
+2020,3,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2556,2.048487277
+2020,3,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6487,2.279499613
+2020,3,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7326,2.040782216
+2020,3,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3416,2.629917623
+2020,3,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,218555,3.320785897
+2020,3,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,654516,3.25525974
+2020,3,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8484,3.003318731
+2020,3,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1693,0.910215054
+2020,3,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,576713,4.012173301
+2020,3,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,208343,4.129107569
+2020,3,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6850,3.680955221
+2020,3,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,183302,4.054865963
+2020,3,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7108,3.247278326
+2020,3,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,38964,3.451267797
+2020,3,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,49723,3.037817693
+2020,3,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,13384,2.665073676
+2020,3,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,19253,2.723967176
+2020,3,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,21922,3.571521668
+2020,3,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,31353,3.920105026
+2020,3,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,249752,4.477085929
+2020,3,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,47405,4.024617192
+2020,3,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,59633,3.863051573
+2020,3,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,59407,2.698939269
+2020,3,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,76548,2.72044148
+2020,3,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,12051656,3.887665957
+2020,4,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,18498,0.95
+2020,4,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2292,1.9
+2020,4,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6439,2.34
+2020,4,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7643,2.2
+2020,4,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3497,2.78
+2020,4,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,219096,3.61
+2020,4,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,636509,3.27
+2020,4,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8359,3.06
+2020,4,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1492,0.83
+2020,4,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,572452,4.12
+2020,4,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,203234,3.96
+2020,4,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6654,3.69
+2020,4,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,184466,4.22
+2020,4,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6521,3.08
+2020,4,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,30647,2.855
+2020,4,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,55121,3.48
+2020,4,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,13746,2.83
+2020,4,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,21421,3.13
+2020,4,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,22283,3.75
+2020,4,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,32186,4.16
+2020,4,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,238342,4.41
+2020,4,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,48114,4.22
+2020,4,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,61842,4.14
+2020,4,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,65619,3.08
+2020,4,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,87449,3.21
+2020,4,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,12753076,4.25
+2020,5,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,18650,0.923540731
+2020,5,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3148,2.522941294
+2020,5,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6656,2.338885375
+2020,5,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8234,2.293721099
+2020,5,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3549,2.732311956
+2020,5,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,213914,3.250269243
+2020,5,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,626872,3.117771274
+2020,5,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,7808,2.764016107
+2020,5,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2078,1.117204301
+2020,5,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,565853,3.936620639
+2020,5,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,194872,3.862128559
+2020,5,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6365,3.420332844
+2020,5,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,170792,3.778129358
+2020,5,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7457,3.406718412
+2020,5,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,40233,3.547143023
+2020,5,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,54388,3.322825024
+2020,5,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,16408,3.267224213
+2020,5,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,25367,3.588992643
+2020,5,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,22174,3.612577387
+2020,5,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,32246,4.031757939
+2020,5,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,229249,4.109546559
+2020,5,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,46362,3.936067973
+2020,5,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,57648,3.734462413
+2020,5,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,79338,3.604431191
+2020,5,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,102797,3.653305414
+2020,5,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,13662449,4.407281278
+2020,6,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,55528,2.841382416
+2020,6,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2947,2.44057971
+2020,6,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8501,3.086782861
+2020,6,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,10378,2.987334485
+2020,6,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,4092,3.255369928
+2020,6,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,246411,3.868839023
+2020,6,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,715632,3.677863193
+2020,6,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9912,3.625788752
+2020,6,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3025,1.680555556
+2020,6,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,609691,4.38298683
+2020,6,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,215794,4.419336671
+2020,6,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7010,3.892498195
+2020,6,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,186679,4.267221674
+2020,6,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,9057,4.275598357
+2020,6,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,43044,3.899130518
+2020,6,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,61733,3.897285354
+2020,6,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,21959,4.518312757
+2020,6,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,33720,4.929824561
+2020,6,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,24988,4.206734007
+2020,6,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,35022,4.524806202
+2020,6,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,244576,4.530443642
+2020,6,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,53024,4.651717725
+2020,6,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,65194,4.364072081
+2020,6,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,101774,4.777852891
+2020,6,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,130623,4.796954874
+2020,6,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,15256368,5.08550177
+2020,7,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,81558,4.04
+2020,7,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4640,3.72
+2020,7,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7705,2.71
+2020,7,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,10474,2.92
+2020,7,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3960,3.05
+2020,7,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,253982,3.86
+2020,7,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,790315,3.93
+2020,7,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9032,3.2
+2020,7,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2513,1.35
+2020,7,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,585572,4.07
+2020,7,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,209504,4.15
+2020,7,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6590,3.54
+2020,7,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,176100,3.9
+2020,7,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,9469,4.33
+2020,7,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,42732,3.75
+2020,7,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,71672,4.38
+2020,7,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,21906,4.36
+2020,7,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,34443,4.87
+2020,7,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,25009,4.07
+2020,7,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,35734,4.47
+2020,7,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,237961,4.27
+2020,7,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,47769,4.06
+2020,7,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,58173,3.77
+2020,7,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,106258,4.83
+2020,7,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,140245,4.98
+2020,7,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,15894482,5.13
+2020,8,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,81429,4.03
+2020,8,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4501,3.61
+2020,8,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8817,3.1
+2020,8,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9348,2.6
+2020,8,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3573,2.75
+2020,8,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,238503,3.62
+2020,8,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,715727,3.56
+2020,8,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8989,3.18
+2020,8,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2665,1.43
+2020,8,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,535100,3.72
+2020,8,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,196739,3.9
+2020,8,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5857,3.15
+2020,8,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,128835,2.85
+2020,8,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8123,3.71
+2020,8,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,41301,3.63
+2020,8,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,57645,3.52
+2020,8,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,18995,3.78
+2020,8,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,30012,4.25
+2020,8,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,24233,3.95
+2020,8,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,32690,4.09
+2020,8,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,221113,3.96
+2020,8,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,40691,3.45
+2020,8,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,51005,3.3
+2020,8,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,98592,4.48
+2020,8,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,127259,4.52
+2020,8,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,14606157,4.71
+2020,9,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,58029,2.969359246
+2020,9,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3570,2.956521739
+2020,9,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7796,2.830791576
+2020,9,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9221,2.654289004
+2020,9,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3095,2.462211615
+2020,9,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,231794,3.639341071
+2020,9,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,678567,3.487374228
+2020,9,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9744,3.564334705
+2020,9,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2980,1.655555556
+2020,9,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,569833,4.096453014
+2020,9,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,224552,4.598695461
+2020,9,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7007,3.890832362
+2020,9,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,153098,3.499606832
+2020,9,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7845,3.703441439
+2020,9,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,40821,3.718960643
+2020,9,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,48411,3.05625
+2020,9,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,17612,3.623868313
+2020,9,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,25745,3.763888889
+2020,9,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,22904,3.855892256
+2020,9,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,33755,4.361111111
+2020,9,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,258455,4.787533574
+2020,9,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,48696,4.272028635
+2020,9,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,60315,4.037472889
+2020,9,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,76420,3.587591309
+2020,9,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,98275,3.609017862
+2020,9,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,13927624,4.642583117
+2020,10,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,51499,2.55
+2020,10,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3509,2.81
+2020,10,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7667,2.69
+2020,10,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9226,2.57
+2020,10,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2606,2.01
+2020,10,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,232587,3.53
+2020,10,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,745034,3.71
+2020,10,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10712,3.79
+2020,10,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2430,1.31
+2020,10,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,507922,3.53
+2020,10,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,185095,3.67
+2020,10,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5998,3.22
+2020,10,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,164225,3.63
+2020,10,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6084,2.78
+2020,10,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,35823,3.165
+2020,10,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,52624,3.22
+2020,10,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,21828,4.35
+2020,10,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,26345,3.73
+2020,10,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,23313,3.8
+2020,10,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,32363,4.05
+2020,10,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,244846,4.39
+2020,10,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,42151,3.58
+2020,10,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,51714,3.35
+2020,10,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,70172,3.19
+2020,10,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,87387,3.11
+2020,10,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,11859764,3.83
+2020,11,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,47946,2.453409475
+2020,11,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3327,2.755279503
+2020,11,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,5304,1.925925926
+2020,11,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,6935,1.996257916
+2020,11,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3473,2.762927605
+2020,11,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,180747,2.837864572
+2020,11,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,583069,2.996579267
+2020,11,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8893,3.253040695
+2020,11,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1740,0.966666667
+2020,11,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,409537,2.944106568
+2020,11,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,150137,3.074719176
+2020,11,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4912,2.727525126
+2020,11,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,137802,3.149961598
+2020,11,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,3693,1.743379125
+2020,11,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,24592,2.229542706
+2020,11,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,47826,3.019318182
+2020,11,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,18034,3.710699588
+2020,11,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,22995,3.361842105
+2020,11,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,17857,3.006228956
+2020,11,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,24698,3.190956072
+2020,11,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,192698,3.569473002
+2020,11,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,35971,3.155683054
+2020,11,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,46622,3.120866469
+2020,11,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,60074,2.820216701
+2020,11,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,75061,2.756514778
+2020,11,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,9012025,3.00403537
+2020,12,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,22988,1.138356801
+2020,12,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,1491,1.194950912
+2020,12,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6059,2.129102537
+2020,12,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7143,1.989804446
+2020,12,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2698,2.077142197
+2020,12,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,122870,1.866921201
+2020,12,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,412923,2.053687943
+2020,12,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,6930,2.453205894
+2020,12,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1470,0.790322581
+2020,12,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,376140,2.616793562
+2020,12,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,147299,2.919288941
+2020,12,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4852,2.607298501
+2020,12,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,107082,2.368785704
+2020,12,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,2799,1.278718632
+2020,12,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,15682,1.388655594
+2020,12,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,40364,2.466031281
+2020,12,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,11053,2.20091597
+2020,12,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,11270,1.59451047
+2020,12,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,16359,2.665200391
+2020,12,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,23359,2.920605151
+2020,12,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,183833,3.295413601
+2020,12,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,32476,2.757166289
+2020,12,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,45658,2.957745019
+2020,12,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,25386,1.153319849
+2020,12,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,33284,1.182880993
+2020,12,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,7409857,2.390297964
+2021,1,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,46200,2.287805994
+2021,1,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2964,2.375475857
+2021,1,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,5373,1.888045541
+2021,1,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7630,2.1254666
+2021,1,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3541,2.726152899
+2021,1,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,187685,2.851738469
+2021,1,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,609883,3.033275849
+2021,1,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8407,2.976060888
+2021,1,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2014,1.082795699
+2021,1,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,406480,2.82786794
+2021,1,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,164931,3.268733965
+2021,1,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5560,2.987753435
+2021,1,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,148994,3.295930755
+2021,1,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5061,2.31210968
+2021,1,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,28487,2.497092926
+2021,1,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,61085,3.731977028
+2021,1,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,15613,3.108920749
+2021,1,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,19688,2.785512168
+2021,1,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,19901,3.242261323
+2021,1,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,28652,3.582395599
+2021,1,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,224296,4.020758454
+2021,1,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,38943,3.306205407
+2021,1,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,53809,3.48577033
+2021,1,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,54822,2.490636602
+2021,1,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,64862,2.305132404
+2021,1,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,9779416,3.154678715
+2021,1,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,90455,2.919070854
+2021,1,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,4244,2.870088591
+2021,1,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,23626,3.528375149
+2021,1,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,5735,2.48655914
+2021,1,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,2104,2.356630824
+2021,1,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,1319,1.313221824
+2021,1,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,58300,2.652045692
+2021,1,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,17576693,3.779957162
+2021,1,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,88327,2.600779583
+2021,1,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,17942,2.357340313
+2021,1,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,31182,3.072675244
+2021,2,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,58782,3.22
+2021,2,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3511,3.12
+2021,2,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6580,2.56
+2021,2,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8751,2.7
+2021,2,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3716,3.17
+2021,2,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,180293,3.03
+2021,2,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,329359,1.81
+2021,2,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8712,3.41
+2021,2,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2305,1.37
+2021,2,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,485093,3.74
+2021,2,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,194270,4.26
+2021,2,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6276,3.73
+2021,2,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,156301,3.83
+2021,2,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5317,2.69
+2021,2,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,29799,2.865
+2021,2,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,55583,3.76
+2021,2,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,18005,3.97
+2021,2,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,22967,3.6
+2021,2,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,21864,3.94
+2021,2,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,29888,4.14
+2021,2,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,242528,4.81
+2021,2,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,44906,4.22
+2021,2,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,60929,4.37
+2021,2,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,67964,3.42
+2021,2,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,83740,3.29
+2021,2,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,9783273,3.49
+2021,2,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,110446,3.95
+2021,2,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,4329,3.24
+2021,2,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,23893,3.95
+2021,2,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,5925,2.84
+2021,2,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,2613,3.24
+2021,2,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,2846,3.14
+2021,2,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,76553,3.86
+2021,2,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,19293430,4.59
+2021,2,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,105665,3.44
+2021,2,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,10155,1.48
+2021,2,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,38168,4.16
+2021,3,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,45290,2.24
+2021,3,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2874,2.3
+2021,3,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6882,2.42
+2021,3,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9012,2.51
+2021,3,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3071,2.36
+2021,3,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,178455,2.71
+2021,3,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,112205,3.46
+2021,3,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9362,3.31
+2021,3,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2285,1.23
+2021,3,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,490484,3.41
+2021,3,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,208093,4.12
+2021,3,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6304,3.39
+2021,3,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,159610,3.53
+2021,3,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5896,2.69
+2021,3,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,33031,2.925
+2021,3,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,55661,3.4
+2021,3,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,15928,3.17
+2021,3,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,20501,2.9
+2021,3,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,22837,3.72
+2021,3,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,31811,3.98
+2021,3,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,251577,4.51
+2021,3,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,48851,4.15
+2021,3,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,62943,4.08
+2021,3,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,59080,2.68
+2021,3,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,74735,2.66
+2021,3,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,10919560,3.52
+2021,3,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,110863,3.58
+2021,3,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,5127,3.47
+2021,3,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,24999,3.73
+2021,3,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,6232,2.7
+2021,3,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,3147,3.52
+2021,3,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,3657,3.64
+2021,3,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,89041,4.05
+2021,3,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,10247277,4.55
+2021,3,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,129210,3.8
+2021,3,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,5962,4.05
+2021,3,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,41299,4.07
+2021,4,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,51490,2.63475689
+2021,4,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3450,2.857142857
+2021,4,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7338,2.664488017
+2021,4,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8526,2.454231434
+2021,4,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3143,2.500397772
+2021,4,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,176738,2.77492024
+2021,4,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,575566,2.958018935
+2021,4,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8384,3.066849566
+2021,4,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2081,1.156111111
+2021,4,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,446729,3.211474868
+2021,4,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,199485,4.085337757
+2021,4,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6020,3.342773058
+2021,4,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,137720,3.148087192
+2021,4,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6207,2.930179861
+2021,4,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,36073,3.296674026
+2021,4,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,54499,3.440593434
+2021,4,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,16353,3.364814815
+2021,4,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,23215,3.394005848
+2021,4,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,22796,3.837710438
+2021,4,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,31400,4.056847545
+2021,4,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,246595,4.567842919
+2021,4,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,47149,4.136312594
+2021,4,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,55044,3.684633304
+2021,4,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,72460,3.40168629
+2021,4,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,93881,3.447654092
+2021,4,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,11275921,3.758674161
+2021,4,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,109041,3.636154462
+2021,4,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,5463,3.817610063
+2021,4,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,26131,4.032561728
+2021,4,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,7060,3.163082437
+2021,4,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,2971,3.438657407
+2021,4,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,3703,3.809670782
+2021,4,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,84664,3.97971223
+2021,4,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,22107926,4.912902577
+2021,4,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,130908,3.983058583
+2021,4,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,25358,3.442760943
+2021,4,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,40172,4.090501792
+2021,5,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,68405,3.38738894
+2021,5,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4266,3.418954117
+2021,5,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9273,3.25848619
+2021,5,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,11345,3.160343195
+2021,5,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3747,2.884748633
+2021,5,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,234053,3.55626685
+2021,5,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,723360,3.597657941
+2021,5,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10114,3.580335413
+2021,5,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2650,1.424731183
+2021,5,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,606180,4.217174247
+2021,5,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,216539,4.291542428
+2021,5,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,7059,3.793264658
+2021,5,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,192096,4.249400072
+2021,5,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7760,3.545143473
+2021,5,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,44972,3.952414287
+2021,5,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,57810,3.531891496
+2021,5,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,19163,3.815810434
+2021,5,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,29504,4.174306735
+2021,5,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,25274,4.117627892
+2021,5,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,36010,4.502375594
+2021,5,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,264898,4.74859504
+2021,5,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,57356,4.869442963
+2021,5,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,70621,4.574858973
+2021,5,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,92039,4.181454566
+2021,5,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,120423,4.279716313
+2021,5,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,13647918,4.402593817
+2021,5,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,134560,4.342382114
+2021,5,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,6341,4.288226145
+2021,5,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,30526,4.558841099
+2021,5,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,6975,3.024193548
+2021,5,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,4242,4.751344086
+2021,5,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,4866,4.844683393
+2021,5,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,106862,4.861113322
+2021,5,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,24439184,5.25577073
+2021,5,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,169386,4.987553641
+2021,5,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,33582,4.412228424
+2021,5,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,42571,4.194947656
+2021,6,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,68516,3.51
+2021,6,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4311,3.57
+2021,6,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8146,2.96
+2021,6,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8419,2.42
+2021,6,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2847,2.26
+2021,6,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,193788,3.04
+2021,6,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,574648,2.95
+2021,6,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8176,2.99
+2021,6,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1728,0.96
+2021,6,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,420061,3.02
+2021,6,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,153200,3.14
+2021,6,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4782,2.66
+2021,6,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,138266,3.16
+2021,6,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6253,2.95
+2021,6,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,35472,3.23
+2021,6,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,46503,2.94
+2021,6,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,19908,4.1
+2021,6,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,29990,4.38
+2021,6,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,19091,3.21
+2021,6,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,27582,3.56
+2021,6,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,190826,3.53
+2021,6,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,38537,3.38
+2021,6,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,45987,3.08
+2021,6,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,92485,4.34
+2021,6,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,118251,4.34
+2021,6,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,11991498,4.0
+2021,6,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,99407,3.31
+2021,6,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,5737,4.01
+2021,6,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,27077,4.18
+2021,6,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,7229,3.24
+2021,6,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,3663,4.24
+2021,6,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,4102,4.22
+2021,6,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,77792,3.66
+2021,6,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,18072691,4.02
+2021,6,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,141753,4.31
+2021,6,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,27498,3.73
+2021,6,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,34386,3.5
+2021,6,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,189476,3.16
+2021,6,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,75566,3.42
+2021,6,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,139954,4.0
+2021,6,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,103173,4.0
+2021,6,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,37658,4.09
+2021,6,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,43480,3.93
+2021,7,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,84760,4.2
+2021,7,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4778,3.83
+2021,7,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,10304,3.62
+2021,7,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9620,2.68
+2021,7,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3743,2.88
+2021,7,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,253450,3.85
+2021,7,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,708131,3.52
+2021,7,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10877,3.85
+2021,7,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1851,1.0
+2021,7,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,488697,3.4
+2021,7,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,191145,3.79
+2021,7,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5686,3.06
+2021,7,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,149078,3.3
+2021,7,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7583,3.46
+2021,7,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,41784,3.65
+2021,7,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,57992,3.54
+2021,7,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,20757,4.13
+2021,7,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,32434,4.59
+2021,7,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,25243,4.11
+2021,7,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,35795,4.48
+2021,7,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,210464,3.77
+2021,7,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,46565,3.95
+2021,7,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,58336,3.78
+2021,7,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,112539,5.11
+2021,7,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,142370,5.06
+2021,7,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,16171074,5.22
+2021,7,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,130401,4.21
+2021,7,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,7800,5.27
+2021,7,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,30023,4.48
+2021,7,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,10761,4.67
+2021,7,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,3937,4.41
+2021,7,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,4447,4.43
+2021,7,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,93267,4.24
+2021,7,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,21826971,4.69
+2021,7,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,180422,5.31
+2021,7,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,34936,4.59
+2021,7,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,42013,4.14
+2021,7,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,221125,3.57
+2021,7,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,71093,3.11
+2021,7,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,150913,4.17
+2021,7,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,115383,4.33
+2021,7,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,41866,4.4
+2021,7,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,46339,4.05
+2021,8,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,73562,3.64
+2021,8,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4027,3.23
+2021,8,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8594,3.02
+2021,8,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8390,2.34
+2021,8,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3136,2.41
+2021,8,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,225528,3.43
+2021,8,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,605871,3.01
+2021,8,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8984,3.18
+2021,8,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1918,1.03
+2021,8,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,353853,2.46
+2021,8,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,163486,3.24
+2021,8,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4764,2.56
+2021,8,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,111680,2.47
+2021,8,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6600,3.02
+2021,8,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,35476,3.09
+2021,8,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,45709,2.79
+2021,8,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,17935,3.57
+2021,8,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,28728,4.06
+2021,8,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,21095,3.44
+2021,8,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,29862,3.73
+2021,8,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,192165,3.44
+2021,8,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,40266,3.42
+2021,8,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,49504,3.21
+2021,8,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,93755,4.26
+2021,8,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,114068,4.05
+2021,8,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,13131186,4.24
+2021,8,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,105768,3.41
+2021,8,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,6751,4.57
+2021,8,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,31497,4.7
+2021,8,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,9572,4.15
+2021,8,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,3212,3.6
+2021,8,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,3679,3.66
+2021,8,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,79017,3.59
+2021,8,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,18318841,3.94
+2021,8,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,154713,4.56
+2021,8,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,30304,3.98
+2021,8,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,34981,3.45
+2021,8,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,147922,2.39
+2021,8,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,91152,3.99
+2021,8,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,138883,3.84
+2021,8,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,99847,3.74
+2021,8,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,34362,3.61
+2021,8,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,37467,3.28
+2021,9,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,83105,4.25
+2021,9,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4383,3.63
+2021,9,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9759,3.54
+2021,9,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9159,2.64
+2021,9,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3582,2.85
+2021,9,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,258961,4.07
+2021,9,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,717820,3.69
+2021,9,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,11185,4.09
+2021,9,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1945,1.08
+2021,9,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,496014,3.57
+2021,9,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,215310,4.41
+2021,9,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,6050,3.36
+2021,9,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,153731,3.51
+2021,9,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7605,3.59
+2021,9,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,42072,3.785
+2021,9,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,61421,3.88
+2021,9,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,18972,3.9
+2021,9,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,31369,4.59
+2021,9,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,24633,4.15
+2021,9,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,34265,4.43
+2021,9,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,259208,4.8
+2021,9,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,47542,4.17
+2021,9,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,58241,3.9
+2021,9,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,104589,4.91
+2021,9,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,132390,4.86
+2021,9,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,14627094,4.88
+2021,9,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,114685,3.82
+2021,9,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,6818,4.76
+2021,9,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,32494,5.01
+2021,9,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,9843,4.41
+2021,9,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,3622,4.19
+2021,9,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,4440,4.57
+2021,9,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,94884,4.46
+2021,9,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,23131932,5.14
+2021,9,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,165038,5.02
+2021,9,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,32657,4.43
+2021,9,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,40285,4.1
+2021,9,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,227273,3.79
+2021,9,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,98677,4.46
+2021,9,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,146053,4.17
+2021,9,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,112224,4.35
+2021,9,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,38961,4.23
+2021,9,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,42889,3.88
+2021,10,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,59201,2.931610447
+2021,10,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3916,3.138449209
+2021,10,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8135,2.858598637
+2021,10,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8346,2.324920608
+2021,10,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3236,2.491338825
+2021,10,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,219993,3.342635272
+2021,10,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,228985,3.209529873
+2021,10,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9740,3.447940174
+2021,10,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1762,0.947311828
+2021,10,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,456544,3.176161535
+2021,10,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,186375,3.693728243
+2021,10,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5373,2.887266044
+2021,10,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,129696,2.869035231
+2021,10,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6114,2.79317103
+2021,10,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,33569,2.930654167
+2021,10,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,54687,3.341092375
+2021,10,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,17517,3.488052569
+2021,10,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,24827,3.512591964
+2021,10,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,21856,3.56076898
+2021,10,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,29465,3.684046012
+2021,10,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,202117,3.623174896
+2021,10,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,41806,3.549270042
+2021,10,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,53397,3.459080792
+2021,10,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,75651,3.436925862
+2021,10,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,93817,3.334164947
+2021,10,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,11860228,3.825914433
+2021,10,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,100048,3.228646297
+2021,10,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,5213,3.525393927
+2021,10,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,25410,3.794802867
+2021,10,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,6193,2.68513701
+2021,10,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,2886,3.232526882
+2021,10,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,2417,2.406411788
+2021,10,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,73592,3.347673182
+2021,10,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,20343768,4.375030704
+2021,10,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,131092,3.859990684
+2021,10,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,9663,1.269589758
+2021,10,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,35829,3.530590767
+2021,10,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,214013,3.452547616
+2021,10,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,87185,3.814587884
+2021,10,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,109094,3.01463241
+2021,10,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,85111,3.191866779
+2021,10,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,29605,3.108723958
+2021,10,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,37647,3.294323337
+2021,11,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,41096,2.1
+2021,11,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2806,2.32
+2021,11,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6154,2.23
+2021,11,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,6388,1.84
+2021,11,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2608,2.07
+2021,11,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,175442,2.75
+2021,11,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,415183,2.56
+2021,11,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,7776,2.84
+2021,11,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1358,0.75
+2021,11,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,401754,2.89
+2021,11,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,158682,3.25
+2021,11,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4822,2.68
+2021,11,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,119222,2.73
+2021,11,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4017,1.9
+2021,11,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,30651,5.56
+2021,11,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,48182,3.04
+2021,11,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,12159,2.5
+2021,11,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,17808,2.6
+2021,11,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,17565,2.96
+2021,11,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,25571,3.3
+2021,11,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,215973,4.0
+2021,11,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,37745,3.31
+2021,11,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,50372,3.37
+2021,11,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,48932,2.3
+2021,11,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,62163,2.28
+2021,11,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,9443183,3.15
+2021,11,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,79326,2.65
+2021,11,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,4404,3.08
+2021,11,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,21674,3.34
+2021,11,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,4172,1.87
+2021,11,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,2021,2.34
+2021,11,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,2202,2.27
+2021,11,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,56616,2.66
+2021,11,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,17551359,3.9
+2021,11,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,87147,2.65
+2021,11,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,14306,2.33
+2021,11,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,30511,3.11
+2021,11,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,192062,3.2
+2021,11,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,56153,2.54
+2021,11,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,77418,2.21
+2021,11,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,55389,2.15
+2021,11,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,20428,2.22
+2021,11,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,24827,2.24
+2021,12,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,37841,1.873871572
+2021,12,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2522,2.021238229
+2021,12,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6802,2.390189051
+2021,12,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8014,2.232436347
+2021,12,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3002,2.311186388
+2021,12,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,177765,2.70101121
+2021,12,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,567602,2.822989719
+2021,12,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9094,3.219257489
+2021,12,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1513,0.81344086
+2021,12,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,429885,2.990695752
+2021,12,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,162559,3.221723779
+2021,12,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4902,2.634166788
+2021,12,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,134391,2.972894413
+2021,12,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4155,1.9
+2021,12,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,25821,2.271102388
+2021,12,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,47248,2.886608016
+2021,12,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,14856,2.95818399
+2021,12,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,18513,2.619269949
+2021,12,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,18291,2.979960899
+2021,12,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,22163,2.771067767
+2021,12,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,197721,3.544371644
+2021,12,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,35110,2.980789149
+2021,12,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,50083,3.244398436
+2021,12,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,43400,1.971719903
+2021,12,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,51410,1.827061406
+2021,12,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,9050515,2.919547244
+2021,12,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,84500,2.72689721
+2021,12,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,4036,2.729424494
+2021,12,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,20680,3.088410992
+2021,12,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,4295,1.862209504
+2021,12,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,1650,1.84811828
+2021,12,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,2416,2.405416169
+2021,12,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,52364,2.382019221
+2021,12,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,16187202,3.481140061
+2021,12,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,92157,2.713553546
+2021,12,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,19029,2.500157664
+2021,12,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,26303,2.591898433
+2021,12,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,193141,3.115831744
+2021,12,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,62552,2.736825157
+2021,12,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,93446,2.582225789
+2021,12,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,63619,2.385865195
+2021,12,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,20535,2.156313004
+2021,12,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,31472,2.753976254
+2021,12,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,35500,2.07
+2022,1,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,33239,1.645982325
+2022,1,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,1804,1.445802444
+2022,1,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6442,2.263686837
+2022,1,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,6702,1.866956376
+2022,1,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2719,2.093309724
+2022,1,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,174051,2.644579653
+2022,1,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,533589,2.653824794
+2022,1,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8401,2.9739369
+2022,1,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1381,0.742473118
+2022,1,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,424986,2.956613571
+2022,1,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,162648,3.223487652
+2022,1,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4767,2.561622415
+2022,1,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,110472,2.443776678
+2022,1,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4245,1.939321397
+2022,1,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,20459,1.806410587
+2022,1,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,44041,2.690676931
+2022,1,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,12266,2.442453206
+2022,1,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,15172,2.146576118
+2022,1,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,17866,2.910720104
+2022,1,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,25066,3.134033508
+2022,1,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,202895,3.637121423
+2022,1,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,35808,3.040048358
+2022,1,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,49745,3.22250265
+2022,1,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,41768,1.897575966
+2022,1,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,52011,1.848420361
+2022,1,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,9348095,3.015541656
+2022,1,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,77307,2.494772102
+2022,1,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,3978,2.690200852
+2022,1,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,20128,3.005973716
+2022,1,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,3253,1.41042317
+2022,1,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,1406,1.574820789
+2022,1,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,2178,2.168458781
+2022,1,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,58162,2.645768122
+2022,1,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,16198570,3.483584807
+2022,1,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,736,0.021671446
+2022,1,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,18961,2.491223368
+2022,1,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,27852,2.744536941
+2022,1,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,191874,3.095391968
+2022,1,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,51989,2.274664329
+2022,1,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,73568,2.032930108
+2022,1,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,52812,1.980576757
+2022,1,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,17383,1.825331821
+2022,1,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,26395,2.309710321
+2022,1,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,50078,2.167766177
+2022,2,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,22697,1.244369443
+2022,2,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,1317,1.168589175
+2022,2,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,5549,2.158807968
+2022,2,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,5842,1.801751789
+2022,2,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2324,1.980906921
+2022,2,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,124616,2.096320102
+2022,2,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,401651,2.211657612
+2022,2,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,7131,2.794826573
+2022,2,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1318,0.78452381
+2022,2,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,356639,2.74696065
+2022,2,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,155041,3.401946715
+2022,2,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4469,2.658789653
+2022,2,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,117521,2.878249514
+2022,2,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,3515,1.777874441
+2022,2,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,14202,1.397875532
+2022,2,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,37731,2.552150974
+2022,2,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,9034,1.991622575
+2022,2,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,10468,1.639724311
+2022,2,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,15450,2.786796537
+2022,2,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,21866,3.026854928
+2022,2,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,181810,3.608343588
+2022,2,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,36006,3.384378807
+2022,2,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,47520,3.408191134
+2022,2,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,31629,1.590906347
+2022,2,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,38823,1.527560059
+2022,2,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,7643560,2.729867426
+2022,2,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,69334,2.477205168
+2022,2,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,3587,2.685684337
+2022,2,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,17437,2.883101852
+2022,2,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,3142,1.508256528
+2022,2,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,1869,2.317708333
+2022,2,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,2601,2.867063492
+2022,2,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,61344,3.089500011
+2022,2,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,14601493,3.476567275
+2022,2,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,31402,1.023696077
+2022,2,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,15571,2.265017688
+2022,2,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,30612,3.33970465
+2022,2,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,195507,3.491929734
+2022,2,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,35975,1.742650592
+2022,2,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,52477,1.605484659
+2022,2,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,39398,1.635825229
+2022,2,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,13871,1.612606957
+2022,2,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,20014,1.938980345
+2022,2,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,44302,2.123207576
+2022,3,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,55341,2.740464751
+2022,3,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3150,2.52454418
+2022,3,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,8310,2.920092768
+2022,3,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8753,2.438297398
+2022,3,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3035,2.336592501
+2022,3,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,202761,3.080807436
+2022,3,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,645274,3.209294308
+2022,3,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10257,3.630957122
+2022,3,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2027,1.089784946
+2022,3,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,450895,3.136861629
+2022,3,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,196203,3.888507377
+2022,3,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5629,3.02483167
+2022,3,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,146925,3.250161927
+2022,3,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6572,3.002407591
+2022,3,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,29452,2.607115554
+2022,3,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,47625,2.909640762
+2022,3,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,15132,3.013142174
+2022,3,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,23587,3.337153367
+2022,3,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,22394,3.648419681
+2022,3,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,30756,3.845461365
+2022,3,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,245487,4.400631
+2022,3,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,46857,3.97809277
+2022,3,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,60833,3.940788093
+2022,3,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,56371,2.561009739
+2022,3,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,51613,1.834275828
+2022,3,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,11748635,3.789916367
+2022,3,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,113121,3.650524726
+2022,3,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,5311,3.591668357
+2022,3,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,25179,3.760304659
+2022,3,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,6428,2.787027402
+2022,3,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,2379,2.664650538
+2022,3,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,3333,3.318399044
+2022,3,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,84244,3.832228769
+2022,3,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,12332771,2.652225084
+2022,3,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,126677,3.729991455
+2022,3,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,24908,3.27258012
+2022,3,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,32392,3.191908681
+2022,3,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,247337,3.990144382
+2022,3,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,74694,3.268071657
+2022,3,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,109182,3.017064145
+2022,3,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,85708,3.214255712
+2022,3,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,30689,3.222551243
+2022,3,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,33854,2.962414595
+2022,3,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,83543,3.616392222
+2022,4,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,59200,3.03
+2022,4,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3252,2.69
+2022,4,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9786,3.55
+2022,4,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9553,2.75
+2022,4,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3465,2.76
+2022,4,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,247996,3.89
+2022,4,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,745421,3.83
+2022,4,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9477,3.47
+2022,4,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2033,1.13
+2022,4,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,485747,3.49
+2022,4,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,217028,4.44
+2022,4,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5919,3.29
+2022,4,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,158813,3.63
+2022,4,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7780,3.67
+2022,4,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,38696,3.5
+2022,4,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,64877,4.1
+2022,4,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,16249,3.34
+2022,4,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,24634,3.6
+2022,4,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,25046,4.22
+2022,4,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,34037,4.4
+2022,4,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,255647,4.74
+2022,4,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,52065,4.57
+2022,4,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,61011,4.08
+2022,4,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,78092,3.67
+2022,4,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,73642,2.7
+2022,4,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,14482348,4.83
+2022,4,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,113193,3.77
+2022,4,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,6705,4.69
+2022,4,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,31609,4.88
+2022,4,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,8354,3.74
+2022,4,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,2954,3.42
+2022,4,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,3913,4.03
+2022,4,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,92732,4.36
+2022,4,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,22228831,4.94
+2022,4,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,164061,4.99
+2022,4,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,31477,4.27
+2022,4,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,46139,4.7
+2022,4,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,261172,4.35
+2022,4,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,82262,3.72
+2022,4,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,117375,3.35
+2022,4,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,88817,3.44
+2022,4,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,31324,3.4
+2022,4,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,36501,3.3
+2022,4,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,97890,4.38
+2022,5,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,43902,2.17400993
+2022,5,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2502,2.005209377
+2022,5,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7424,2.608756764
+2022,5,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7516,2.093709956
+2022,5,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2563,1.973208099
+2022,5,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,175239,2.662630458
+2022,5,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,575906,2.864289972
+2022,5,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8073,2.857825568
+2022,5,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1507,0.810215054
+2022,5,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,365437,2.542333144
+2022,5,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,154989,3.071695488
+2022,5,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4536,2.437490932
+2022,5,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,116848,2.58482165
+2022,5,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,5972,2.72829856
+2022,5,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,27134,2.371120882
+2022,5,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,43088,2.632453568
+2022,5,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,13327,2.653723616
+2022,5,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,19453,2.752263724
+2022,5,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,19100,3.111762789
+2022,5,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,27508,3.43935984
+2022,5,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,164647,2.951482939
+2022,5,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,41240,3.501217446
+2022,5,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,49176,3.185642583
+2022,5,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,61616,2.799297086
+2022,5,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,78727,2.797881021
+2022,5,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,10460247,3.374303595
+2022,5,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,85325,2.753520763
+2022,5,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,4649,3.143977818
+2022,5,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,22924,3.42353644
+2022,5,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,5195,2.252428026
+2022,5,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,2358,2.641129032
+2022,5,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,3120,3.106332139
+2022,5,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,73899,3.3616385
+2022,5,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,17018637,3.659944383
+2022,5,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,120886,3.559476046
+2022,5,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,23556,3.094945291
+2022,5,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,23939,2.3589498
+2022,5,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,207666,3.350155145
+2022,5,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,64477,2.821049297
+2022,5,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,88824,2.454504457
+2022,5,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,69026,2.588640673
+2022,5,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,24299,2.5515583
+2022,5,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,28876,2.526811716
+2022,5,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,77471,3.353548733
+2022,6,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,62168,3.181152968
+2022,6,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3613,2.992132505
+2022,6,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9093,3.301742919
+2022,6,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8771,2.524755325
+2022,6,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,2671,2.124900557
+2022,6,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,217851,3.420425428
+2022,6,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,694534,3.56943378
+2022,6,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9169,3.354000914
+2022,6,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,1475,0.819444444
+2022,6,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,425471,3.058653957
+2022,6,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,185954,3.80823068
+2022,6,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5589,3.103448276
+2022,6,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,123758,2.828935338
+2022,6,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,7739,3.653401312
+2022,6,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,35852,3.236902652
+2022,6,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,38657,2.440467172
+2022,6,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,18301,3.76563786
+2022,6,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,27565,4.02997076
+2022,6,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,21976,3.6996633
+2022,6,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,31755,4.102713178
+2022,6,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,234961,4.352338613
+2022,6,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,51996,4.561532793
+2022,6,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,61938,4.146116154
+2022,6,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,85994,4.037049556
+2022,6,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,109572,4.02388507
+2022,6,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,13408099,4.469406558
+2022,6,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,114187,3.807756436
+2022,6,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,4948,3.457721873
+2022,6,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,24529,3.785339506
+2022,6,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,4292,1.922939068
+2022,6,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,3366,3.895833333
+2022,6,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,4650,4.783950617
+2022,6,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,94370,4.435952035
+2022,6,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,20967063,4.659375911
+2022,6,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,154223,4.692449994
+2022,6,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,29702,4.032529597
+2022,6,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,46998,4.785557185
+2022,6,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,253792,4.230755125
+2022,6,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,88221,3.988579644
+2022,6,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,132533,3.784408123
+2022,6,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,95512,3.701326885
+2022,6,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,33483,3.633138021
+2022,6,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,40021,3.61879702
+2022,6,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,98729,4.416219359
+2022,7,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,83083,4.11
+2022,7,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4764,3.82
+2022,7,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,10897,3.83
+2022,7,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,10637,2.96
+2022,7,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3354,2.58
+2022,7,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,270729,4.11
+2022,7,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,856793,4.26
+2022,7,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,11142,3.94
+2022,7,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,2128,1.14
+2022,7,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,442748,3.08
+2022,7,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,202511,4.01
+2022,7,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5483,2.95
+2022,7,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,168291,3.72
+2022,7,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,9130,4.17
+2022,7,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,43671,3.83
+2022,7,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,49825,3.04
+2022,7,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,23475,4.67
+2022,7,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,35613,5.04
+2022,7,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,27036,4.4
+2022,7,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,36538,4.57
+2022,7,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,252241,4.52
+2022,7,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,52830,4.49
+2022,7,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,63454,4.11
+2022,7,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,117116,5.32
+2022,7,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,148078,5.26
+2022,7,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,16369438,5.28
+2022,7,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,131521,4.24
+2022,7,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,7799,5.27
+2022,7,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,36182,5.4
+2022,7,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,11891,5.16
+2022,7,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,3438,3.85
+2022,7,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,4799,4.78
+2022,7,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,94230,4.29
+2022,7,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,23133156,4.97
+2022,7,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,179335,5.28
+2022,7,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,35414,4.65
+2022,7,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,47035,4.63
+2022,7,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,267265,4.31
+2022,7,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,112121,4.91
+2022,7,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,170422,4.71
+2022,7,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,125521,4.71
+2022,7,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,42943,4.51
+2022,7,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,50200,4.39
+2022,7,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,113485,4.91
+2022,8,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,80356,3.979197802
+2022,8,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,4256,3.410939691
+2022,8,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,10890,3.826691967
+2022,8,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8161,2.273385704
+2022,8,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3036,2.337362384
+2022,8,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,216603,3.291126662
+2022,8,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,766214,3.810793909
+2022,8,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,11213,3.969379176
+2022,8,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3062,1.646236559
+2022,8,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,441919,3.074415893
+2022,8,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,212254,4.206618884
+2022,8,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5152,2.768508219
+2022,8,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,148521,3.285467413
+2022,8,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8811,4.025291127
+2022,8,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,42976,3.765571715
+2022,8,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,41992,2.565493646
+2022,8,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,18535,3.690760653
+2022,8,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,30160,4.267119411
+2022,8,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,26576,4.329749104
+2022,8,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,35301,4.413728432
+2022,8,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,235127,4.21491633
+2022,8,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,49223,4.178962811
+2022,8,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,59889,3.879635364
+2022,8,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,106567,4.841480989
+2022,8,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,135233,4.806049311
+2022,8,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,15952467,5.146003411
+2022,8,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,110133,3.554099059
+2022,8,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,7872,5.32359505
+2022,8,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,36400,5.436081243
+2022,8,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,11658,5.054630593
+2022,8,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,3117,3.491263441
+2022,8,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,4965,4.943249701
+2022,8,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,89611,4.076371638
+2022,8,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,21829721,4.694592449
+2022,8,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,174678,5.143376046
+2022,8,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,34781,4.569761086
+2022,8,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,44366,4.371827011
+2022,8,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,264551,4.267847861
+2022,8,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,94277,4.124882742
+2022,8,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,141886,3.920785141
+2022,8,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,108290,4.061134913
+2022,8,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,39870,4.186617944
+2022,8,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,40219,3.519387741
+2022,8,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,106756,4.621231797
+2022,9,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,63136,3.230685784
+2022,9,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,3696,3.060869565
+2022,9,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,9421,3.420842411
+2022,9,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,9388,2.702360391
+2022,9,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3438,2.735083532
+2022,9,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,236441,3.712302484
+2022,9,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,717879,3.68941125
+2022,9,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,11029,4.034385002
+2022,9,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4594,2.552222222
+2022,9,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,404461,2.907615885
+2022,9,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,175152,3.58701195
+2022,9,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4743,2.633683158
+2022,9,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,126491,2.891407907
+2022,9,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,8802,4.155218808
+2022,9,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,41585,3.769232865
+2022,9,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,50282,3.174368687
+2022,9,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,17924,3.688065844
+2022,9,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,26088,3.814035088
+2022,9,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,24961,4.202188552
+2022,9,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,33006,4.264341085
+2022,9,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,229614,4.253292581
+2022,9,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,45259,3.970505667
+2022,9,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,55729,3.730487054
+2022,9,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,84326,3.958744108
+2022,9,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,107738,3.956533874
+2022,9,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,14248557,4.749561746
+2022,9,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,94093,3.137688409
+2022,9,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,6461,4.515024458
+2022,9,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,29892,4.612962963
+2022,9,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,9493,4.253136201
+2022,9,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,2896,3.351851852
+2022,9,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,4062,4.179012346
+2022,9,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,81847,3.847296452
+2022,9,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,20167607,4.481717932
+2022,9,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,152776,4.648423
+2022,9,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,30785,4.179564462
+2022,9,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,38474,3.917603454
+2022,9,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,233409,3.890967103
+2022,9,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,88682,4.00942202
+2022,9,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,125709,3.589552495
+2022,9,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,93859,3.637269035
+2022,9,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,31580,3.426649306
+2022,9,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,39054,3.531358507
+2022,9,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,101189,4.526256933
+2022,10,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,45281,2.242297472
+2022,10,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2959,2.371468644
+2022,10,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7934,2.787968234
+2022,10,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,8031,2.237171987
+2022,10,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3365,2.59065363
+2022,10,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,205022,3.115161704
+2022,10,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,613262,3.050081432
+2022,10,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,10050,3.557679543
+2022,10,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4088,2.197849462
+2022,10,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,405568,2.821523186
+2022,10,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,175262,3.473481954
+2022,10,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4914,2.640615176
+2022,10,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,141639,3.133229098
+2022,10,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,6538,2.986874746
+2022,10,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,26960,2.36450178
+2022,10,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,50498,3.085166178
+2022,10,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,18782,3.739944245
+2022,10,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,22974,3.250424448
+2022,10,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,21570,3.514173998
+2022,10,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,29383,3.673793448
+2022,10,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,227173,4.07233192
+2022,10,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,40996,3.480502192
+2022,10,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,50059,3.242843706
+2022,10,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,64748,2.941588025
+2022,10,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,79758,2.834521758
+2022,10,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,10399216,3.354615998
+2022,10,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,80299,2.591326853
+2022,10,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,4819,3.258943667
+2022,10,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,24491,3.65755675
+2022,10,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,6154,2.668227541
+2022,10,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,1822,2.040770609
+2022,10,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,3159,3.14516129
+2022,10,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,71592,3.256693913
+2022,10,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,18669298,4.014927421
+2022,10,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,120267,3.541249653
+2022,10,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,23757,3.121354019
+2022,10,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,34875,3.436583578
+2022,10,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,208333,3.36091547
+2022,10,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,79566,3.481235299
+2022,10,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,113622,3.139756208
+2022,10,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,73529,2.757513981
+2022,10,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,21432,2.250504032
+2022,10,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,38880,3.402217742
+2022,10,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,72421,3.134945371
+2022,11,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,43730,2.24
+2022,11,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2816,2.33
+2022,11,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,7333,2.66
+2022,11,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7670,2.21
+2022,11,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3314,2.64
+2022,11,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,185346,2.91
+2022,11,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,544153,2.8
+2022,11,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,9032,3.3
+2022,11,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,3703,2.06
+2022,11,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,323318,2.32
+2022,11,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,162629,3.33
+2022,11,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4480,2.49
+2022,11,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,113917,2.6
+2022,11,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4576,2.16
+2022,11,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,22714,2.033664483
+2022,11,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,39564,2.5
+2022,11,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,16271,3.347942387
+2022,11,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,19710,2.881578947
+2022,11,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,18584,3.128619529
+2022,11,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,25014,3.231782946
+2022,11,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,196667,3.642993424
+2022,11,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,39174,3.436677545
+2022,11,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,49318,3.301336118
+2022,11,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,56150,2.636001728
+2022,11,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,68927,2.531251836
+2022,11,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,9545048,3.181711302
+2022,11,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,86643,2.889255702
+2022,11,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,3614,2.525506639
+2022,11,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,17901,2.7625
+2022,11,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,2976,1.333333333
+2022,11,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,1530,1.770833333
+2022,11,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,2629,2.70473251
+2022,11,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,57706,2.712525677
+2022,11,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,16043994,3.565353868
+2022,11,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,94703,2.881470934
+2022,11,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,20748,2.816878462
+2022,11,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,31722,3.230083089
+2022,11,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,197048,3.284823146
+2022,11,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,69002,3.119665075
+2022,11,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,103896,2.966694079
+2022,11,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,73636,2.853577629
+2022,11,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,23882,2.591362847
+2022,11,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,32157,2.907714844
+2022,11,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,56085,2.508722491
+2022,12,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,34940,1.730215183
+2022,12,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,1852,1.484271689
+2022,12,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6448,2.265795207
+2022,12,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7247,2.018775419
+2022,12,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3251,2.502887058
+2022,12,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,176076,2.675348071
+2022,12,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,577059,2.870024461
+2022,12,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8513,3.013584672
+2022,12,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4441,2.387634409
+2022,12,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,370939,2.580610376
+2022,12,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,166924,3.308232827
+2022,12,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,4731,2.542277248
+2022,12,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,124030,2.743696334
+2022,12,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4675,2.135766203
+2022,12,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,18970,1.658435962
+2022,12,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,40021,2.445075758
+2022,12,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,12472,2.48347272
+2022,12,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,14904,2.108658744
+2022,12,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,18661,3.040241121
+2022,12,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,26693,3.337459365
+2022,12,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,207453,3.718828707
+2022,12,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,37683,3.199233196
+2022,12,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,49871,3.230664984
+2022,12,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,40710,1.849509614
+2022,12,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,46641,1.657575783
+2022,12,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,8727274,2.815275015
+2022,12,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,76744,2.476603545
+2022,12,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,3711,2.509636843
+2022,12,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,19066,2.847371565
+2022,12,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,3695,1.602063822
+2022,12,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,1712,1.917562724
+2022,12,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,2347,2.336718439
+2022,12,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,53074,2.414316862
+2022,12,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,16623327,3.574930959
+2022,12,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,77175,2.272410071
+2022,12,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,19771,2.597646601
+2022,12,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,29250,2.882295904
+2022,12,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,192148,3.099812251
+2022,12,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,52342,2.290109067
+2022,12,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,68859,1.902804674
+2022,12,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,44980,1.686857959
+2022,12,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,15108,1.586441532
+2022,12,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,24902,2.17906446
+2022,12,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,52783,2.284859661
+2022,12,台南七股II光電站/Tainan Qigu II Photovoltaics Station,3299.83,354896,3.469347834
+2023,1,大潭電廠光電站/Datang Power Plant Photovoltaics Station,651.42,43303,2.144347683
+2023,1,中大D/S光電站/Zhongda D/S Photovoltaics Station,40.25,2207,1.768783811
+2023,1,中部儲運中心光電站/Central Storage and Transportation Center Photovoltaics Station,91.8,6565,2.306908426
+2023,1,東勢新伯公光電站/Dongshi Xinbogong Photovoltaics Station,115.8,7752,2.15945178
+2023,1,卓蘭會館光電站/Zhuolan Hostel Photovoltaics Station,41.9,3343,2.573716221
+2023,1,台中電廠光電站/Taichung Power Plant Photovoltaics Station,2123.04,163545,2.484948546
+2023,1,台中龍井光電站/Taichung Longjing Photovoltaics Station,6485.94,517402,2.573318146
+2023,1,后里E/S光電站/Houli E/S Photovoltaics Station,91.125,8783,3.109164122
+2023,1,嘉義民雄光電站/Jiayi Minxiong Photovoltaics Station,60.0,4851,2.608064516
+2023,1,永安鹽灘地光電站/Yongan Salt Flats Photovoltaics Station,4636.8,399828,2.781590196
+2023,1,興達電廠光電站/Xingda Power Plant Photovoltaics Station,1627.65,168332,3.336137693
+2023,1,路北E/S光電站/Lubei E/S Photovoltaics Station,60.03,5001,2.687365994
+2023,1,核三廠光電站/3rd Nuclear Power Plants Photovoltaics Station,1458.24,132040,2.920887398
+2023,1,澎湖尖山光電站/Penghu jianshan Photovoltaics Station,70.61,4345,1.985006236
+2023,1,澎湖七美光電站/Penghu Qimei Photovoltaics Station,354.28,21677,1.893188328
+2023,1,金門金沙光電站/Kinmen Jinsha Photovoltaics Station,528.0,39650,2.42240958
+2023,1,龍潭E/S光電站/Longtan E/S Photovoltaics Station,162.0,12498,2.48864994
+2023,1,竹工E/S光電站/Zhugong E/S Photovoltaics Station,228.0,16482,2.331918506
+2023,1,中科E/S光電站/Zhongke E/S Photovoltaics Station,198.0,18668,3.041381558
+2023,1,彰林E/S光電站/Changlin E/S Photovoltaics Station,258.0,25684,3.211302826
+2023,1,台南七股光電站/Tainan Qigu Photovoltaics Station,1799.5,223155,4.000304744
+2023,1,高雄E/S光電站/Kaohsiung E/S Photovoltaics Station,379.96,39077,3.317581817
+2023,1,燕巢倉庫光電站/Yanchao Warehouse Photovoltaics Station,497.96,53903,3.491859691
+2023,1,大潭電廠GIS廠房光電站/Datang Power Plant GIS Photovoltaics Station,710.04,48359,2.197013889
+2023,1,北部儲運中心光電站/Northern Storage and Transportation Center Photovoltaics Station,907.68,58098,2.064746422
+2023,1,彰化彰濱光電站/Changhua Changbin Photovoltaics Station,99999.1,8076978,2.605500224
+2023,1,南投大彎光電站/Nantou Dawan Photovoltaics Station,999.6,87323,2.817998167
+2023,1,金門鵲山光電站/Kinmen Queshan Photovoltaics Station,47.7,3688,2.49408264
+2023,1,金門塔山光電站/Kinmen Tashan Photovoltaics Station,216.0,18333,2.737903226
+2023,1,馬祖珠山光電站/Mazu Zhushan Photovoltaics Station,74.4,4219,1.829257718
+2023,1,蘭嶼電廠光電站/Lanyu Power Plant Photovoltaics Station,28.8,1772,1.984767025
+2023,1,蘭嶼貯存場光電站/Lanyu Storage Unit Photovoltaics Station,32.4,2403,2.392473118
+2023,1,高雄保寧光電站/Kaohsiung Baoning Photovoltaics Station,709.13,58257,2.650089637
+2023,1,台南鹽田光電站/Tainan salt field Photovoltaics Station,149999.08,17226712,3.704691969
+2023,1,台中電廠建物光電站/Taichung Power Plant Building Photovoltaics Station,1095.54,72657,2.139378018
+2023,1,台中電廠GIS廠房光電站/Taichung Power Plant GIS Photovoltaics Station,245.52,16616,2.183121538
+2023,1,高雄E/S停車棚光電站/Kaohsiung E/S Parking Shed Photovoltaics Station,327.36,31056,3.0602592
+2023,1,鳳山水庫光電站/Fengshan Reservoir Photovoltaics Station,1999.58,193323,3.118767844
+2023,1,東興淨水場光電站/Dongxing Water Treatment Plant Photovoltaics Station,737.28,50296,2.200590838
+2023,1,平鎮淨水場光電站/Pingzhen Water Treatment Plant Photovoltaics Station,1167.36,79565,2.198647292
+2023,1,大湳淨水場光電站/Danan Water Treatment Plant Photovoltaics Station,860.16,59525,2.232330369
+2023,1,龜山第三加壓站光電站/Guishan No.3 Pumping Station Photovoltaics Station,307.2,20864,2.190860215
+2023,1,龍潭淨水場光電站/Longtan Water Treatment Plant Photovoltaics Station,368.64,26871,2.351362987
+2023,1,澎湖尖山小再光電站/Penghu jianshan Small Scale Renewable Energy Photovoltaics Station,745.2,55371,2.396888473
+2023,1,台南七股II光電站/Tainan Qigu II Photovoltaics Station,3299.83,349997,3.421456804
